@@ -36,7 +36,7 @@ Kommunizieren Sie in Ihren wissenschaftsbezogenen Aktivitäten Ihre ORCID-ID, z.
 
 Bei Fragen, können Sie sich jederzeit an das Team Hochschulbibliographie wenden:
 
-* per Mail an bibliographie-ub@rub.de
+* per Mail an [bibliographie-ub@rub.de](mailto:bibliographie-ub@rub.de)
 * telefonisch über die Durchwahl -28560 (Veronika Josenhans), -29346 (Andre Hagenbruch)
 
 
