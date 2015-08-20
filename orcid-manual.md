@@ -1,3 +1,11 @@
+---
+title: 'Manual zur ORCID-Registrierung'
+author:
+ - name: André Hagenbruch
+ - name: Veronika Josenhans
+date: 2015-08-20
+...
+
 #Manual zur ORCID-Registrierung
 
 Die ORCID (Open Researcher and Contributor ID) ist eine international anerkannte Kennung zur eindeutigen Identifikation wissenschaftlicher Autorinnen und Autoren. Anhand dieser Kennung lassen sich einerseits Ergebnisse wissenschaftlicher Arbeit verwalten, andererseits unterstützt sie den administrativen Workflow in der Kommunikation mit Verlagen oder der Universitätsverwaltung. 
@@ -7,6 +15,8 @@ Prüfen Sie über die Suche von [http://orcid.org/](http://orcid.org/), ob Sie b
 
 ###Schritt 2
 Melden Sie sich unter [https://orcid.org/register](https://orcid.org/register) an. In Ihrem Profil können Sie nun Informationen über Ihre Ausbildung, Ihre Beschäftigungsverhältnisse, geförderte Projekte und Ihre Publikationen eingeben. Darüber hinaus ist es möglich, Angaben zu Geburtsnamen, Schlagwörtern, die Ihren Forschungsbereich beschreiben, und Websites, auf denen Informationen zu Ihnen zu finden sind, zu machen. Für jede Angabe außer Ihrem Namen und der ID selbst (beide sind immer öffentlich) können Sie in Ihrem ORCID-Profil die Sichtbarkeit festlegen (everyone, trusted parties, only me). Je mehr Angaben Sie in Ihrem Profil öffentlich hinterlegen, desto aussagekräftiger wird es. Ihr Profil können Sie jederzeit erweitern und aktualisieren.
+
+![Abb. 1: Regustrierung in ORCID](img/orcid2.jpg)
 
 **Zu Ihrer Namensangabe**
 
@@ -39,5 +49,44 @@ Bei Fragen, können Sie sich jederzeit an das Team Hochschulbibliographie wenden
 * per Mail an [bibliographie-ub@rub.de](mailto:bibliographie-ub@rub.de)
 * telefonisch über die Durchwahl -28560 (Veronika Josenhans), -29346 (Andre Hagenbruch)
 
+##Weitere Schritte: Verknüpfung mit anderen Kennungen
+Zur Erhöhung Ihrer Sichtbarkeit in Datenquellen wie [Web of Knowledge](http://webofknowledge.com/), [SCOPUS](http://www.scopus.com/) oder [Google Scholar](https://scholar.google.de/) lohnt es sich, die ORCID ID mit diesen Kennungen zu verknüpfen.
 
+###ResearcherID mit ORCID-ID verknüpfen
+Wenn Sie bereits eine [ResearcherID](http://www.researcherid.com/) besitzen, können Sie diese unter "Manage my Profile" mit Ihrer ORCID-ID verknüpfen. Wählen Sie dazu "I already have an ORCID record" und klicken dann auf "Continue":
 
+![Abb. 2: Verknüpfung der ResearcherID mit ORCID](img/orcid1.jpg)
+
+Im nächsten Schritt können Sie nun Profil- und Publikationsdaten zwischen diesen beiden Quellen austauschen:
+
+![Abb. 3: Datenaustausch mit ORCID](img/orcid3.jpg)
+
+Wählt man den Punkt "Profile Data", fragt ORCID im nächsten Schritt, ob man der Anwendung "ResearcherID" die Übernahme der Profildaten erlauben will:
+
+![Abb. 4: Autorisierung der Profildaten-Übernahme](img/orcid4.jpg)
+
+Danach lässt sich dann auswählen, ob man Profildaten von ResearcherID nach ORCID oder umgekehrt austauschen will:
+
+![Abb. 5: Austausch von Profildaten](img/orcid5.jpg)
+
+Auch hier wird man zunächst gefragt, ob man dies zulassen will:
+
+![Abb. 6: Autorisierung des Profildatenaustauschs](img/orcid6.jpg)
+
+Genauso lassen sich auch Publikationsdaten austauschen:
+
+![Abb. 7: Austausch von Publikationsdaten](img/orcid7.jpg)
+
+Zunächst wird wiederum gefragt, ob man den Import von Daten aus ResearcherID nach ORCID erlauben will:
+
+![Abb. 8: Autorisierung des Publikationsdatenaustauschs](img/orcid8.jpg)
+
+Im Ergebnis wird diese Publikation dann in ORCID verzeichnet:
+
+![Abb. 9: Publikation in ORCID](img/orcid9.jpg)
+
+###SCOPUS Author Identifier mit ORCID-ID verknüpfen
+TODO: Da die RUB die Datenquelle SCOPUS nicht lizensiert hat, verweisen wir zunächst nur auf die allgemeine Dokumentation zu dieser Kennung: [http://help.scopus.com/Content/h_autsrch_intro.htm](http://help.scopus.com/Content/h_autsrch_intro.htm)
+
+###Google Scholar Identifier mit ORCID-ID verknüpfen
+TODO: Zur Zeit lässt sich der [Google Scholar Identifier](https://scholar.google.nl/citations?hl=en) nur als Website angeben. Wenn Sie ihr Google Scholar-Profil auf "public" gesetzt haben, können Sie die entsprechende URL unter "Websites" hinzufügen.
