@@ -6,7 +6,7 @@ At the moment this is built with [Pandoc](http://pandoc.org/), but we might look
 Invoke Pandoc e.g. with
 
 ```shell
-pandoc -f markdown+yaml_metadata_block -o index.html -s -S --template /Users/hagenbruch/PycharmProjects/ubbochum.github.io/rubstrap.html5 index.md
+pandoc -f markdown+yaml_metadata_block -o index.html -s -S --template rubstrap.html5 index.md
 ```
 
 
