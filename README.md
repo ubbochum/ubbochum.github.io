@@ -10,4 +10,4 @@ pandoc -f markdown+yaml_metadata_block -o index.html -s -S --template rubstrap.h
 ```
 
 
-A watcher for IntelliJ IDEs can be found in thi [Gist](https://gist.github.com/ahagenbruch/990b03e17052be8e46c4)
+A watcher for IntelliJ IDEs can be found in this [Gist](https://gist.github.com/ahagenbruch/990b03e17052be8e46c4)
