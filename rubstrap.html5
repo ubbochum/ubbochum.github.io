@@ -43,7 +43,7 @@
 $for(include-before)$
 $include-before$
 $endfor$
-<header>
+<!--<header>
     <nav id="header" class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container-fluid"><div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#oa_nav">
@@ -65,16 +65,33 @@ $endfor$
             </ul>
         </div>
     </nav>
-</header>
+</header>-->
 $if(toc)$
 <nav id="$idprefix$TOC">
     $toc$
 </nav>
 $endif$
 <div class="container">
-    <p><a href="https://github.com/ubbochum/ubbochum.github.io"><img style="position: absolute; top: 54px; right: 0; border: 0;" src="https://camo.githubusercontent.com/652c5b9acfaddf3a9c326fa6bde407b87f7be0f4/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6f72616e67655f6666373630302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png"></a></p>
-$body$
+    <!--<p><a href="https://github.com/ubbochum/ubbochum.github.io"><img style="position: absolute; top: 54px; right: 0; border: 0;" src="https://camo.githubusercontent.com/652c5b9acfaddf3a9c326fa6bde407b87f7be0f4/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6f72616e67655f6666373630302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png"></a></p>
+    -->
+    <header class="main">
+        <p><span class="pull-left">
+            <a href="https://www.rub.de" title="Ruhr-Universität Bochum">
+                <img src="https://static.ub.rub.de/myopac/rub-img/rub_script.svg" id="rub-wortmarke" alt="RUB-Wortmarke"/>
+            </a>
+        </span>
+        <span class="pull-right">
+            <span class="header-nav"><a href="http://www.rub.de">startseite</a> | <a href="http://www.rub.de/uebersicht/">übersicht</a> | <a
+                    href="http://www.rub.de/suche/">suche</a> | <a href="http://www.rub.de/a-z/">a-z</a></span>
+            <a href="https://www.rub.de" title="Ruhr-Universität Bochum">
+                    <img src="https://static.ub.rub.de/myopac/rub-img/rub_logo.svg" id="rub-label" alt="RUB-Label"/>
+                </a>
+        </span></p>
+        <h1>$title$</h1>
+    </header>
+<main>$body$</main>
     <footer>
+        <hr>
         <p>Last changed: <time datetime="$date$">$date$</time></p>
     </footer>
     </div>

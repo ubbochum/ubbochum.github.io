@@ -6,8 +6,6 @@ author:
 date: 2015-08-20
 ...
 
-#Manual zur ORCID-Registrierung
-
 Die ORCID (Open Researcher and Contributor ID) ist eine international anerkannte Kennung zur eindeutigen Identifikation wissenschaftlicher Autorinnen und Autoren. Anhand dieser Kennung lassen sich einerseits Ergebnisse wissenschaftlicher Arbeit verwalten, andererseits unterstützt sie den administrativen Workflow in der Kommunikation mit Verlagen oder der Universitätsverwaltung. 
 
 ###Schritt 1
