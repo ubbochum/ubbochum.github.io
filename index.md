@@ -6,3 +6,4 @@ date: 2015-08-20
 ...
 
 * [Manual zur ORCID-Registrierung](orcid-manual.html) (German)
+* [Manual zur Verwendung des eGroupware-Kalenders in Thunderbird](kalender-manual.html) (German)
