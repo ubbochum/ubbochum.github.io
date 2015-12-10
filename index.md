@@ -2,7 +2,7 @@
 title: 'Project and API Docs'
 author:
  - name: André Hagenbruch
-date: 2015-08-20
+date: 2015-12-10
 ...
 
 * [Manual zur ORCID-Registrierung](orcid-manual.html) (German)

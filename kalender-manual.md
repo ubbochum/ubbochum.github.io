@@ -4,9 +4,12 @@ author:
  - name: André Hagenbruch
 date: 2015-12-10
 ...
+[Übersicht](/)
 
 #Thunderbird + Lightning mit eGroupware verwenden
-1. Mit dem biblixm7-Passwort bei [https://bibliographie.egroupware.rub.de](https://bibliographie.egroupware.rub.de) anmelden.
+0. Unter [http://egroupware.ruhr-uni-bochum.de/](http://egroupware.ruhr-uni-bochum.de/) finden sich detailierte Informationen zu eGroupware. Zunächst muss man für ein **Funktionskonto** einen Kalender beantragen, der dann innerhalb einiger Tage von IT.Services angelegt wird. Im Laufe dieses Prozesses bekommt man zwei Mails: In der ersten wird man darüber informiert, dass ein eGroupware-Konto eingerichtet wurde, in der zweiten folgt dann die eigentlich wichtige Information, dass der Kalender angelegt wurde.
+
+1. Mit den Anmeldedaten des Funktionskontos an der mitgeteilten URL (in diesem Fall [https://bibliographie.egroupware.rub.de](https://bibliographie.egroupware.rub.de)) anmelden.
 
 ![Abb. 1: Anmeldung bei eGroupware](img/kalender1.png)
 
@@ -22,11 +25,13 @@ date: 2015-12-10
 
 ![Abb. 4: Neues Benutzerkonto anlegen](img/kalender4.png)
 
-5. Login und Passwort vom RZ-Konto eintragen und die Haken wie unten gezeigt setzen. Zuletzt "Hinzufügen" klicken.
+5. Login und Passwort vom eigenen RZ-Konto eintragen und die Haken wie unten gezeigt setzen. Zuletzt "Hinzufügen" klicken.
+
+**Hinweis**: *Sollte der neue Benutzer danach nicht in der Übersicht auftauchen, muss man auf den Anfangsbuchstaben des Login-Namens in der Kopfzeile der Tabelle klicken*.
 
 ![Abb. 5: Benutzerkonto-Formular](img/kalender5.png)
 
-6. In Thunderbird einen neuen Kalender im Netzwerk anlegen mit Protokoll "CalDAV" und der URL https://bibliographie.egroupware.rub.de/groupdav.php/**rzlogin**/calendar, wobei "rzlogin" durch das entsprechende Login beim Rechenzentrum ersetzt werden muss.
+6. In Thunderbird einen neuen Kalender im Netzwerk anlegen mit Protokoll "CalDAV" und der URL https://bibliographie.egroupware.rub.de/groupdav.php/**rzlogin**/calendar, wobei **rzlogin** durch den eigenen Anmeldenamen beim Rechenzentrum ersetzt werden muss.
 
 ![Abb. 6: Neuer Kalender in Thunderbird](img/kalender6.png)
 
