@@ -59,6 +59,6 @@ date: 2015-12-10
 
 ![Abb. 12: ZUgriff gewähren](img/kalender12.png)
 
-13. Dies sollte man für den Bereich "frei / belegt" auch tun, damit man beim Verschicken von Einladungen sofort sieht, ob jemand zu diesem Zeitpunkt verfügbar ist.
+13. Dies sollte man für den Bereich "Lesen" auch tun, um Terminabsprachen zu erleichtern.
 
 ![Abb. 13: Zugriffsrechte](img/kalender13.png)
